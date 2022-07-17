@@ -1,0 +1,11 @@
+Model Information:
+* title:	ZORO - ONE PIECE
+* source:	https://sketchfab.com/3d-models/zoro-one-piece-027b4e362ec74da995ae87f34998b2ed
+* author:	MACA3D (https://sketchfab.com/dgsamaral11)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "ZORO - ONE PIECE" (https://sketchfab.com/3d-models/zoro-one-piece-027b4e362ec74da995ae87f34998b2ed) by MACA3D (https://sketchfab.com/dgsamaral11) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>My first three.js app</title>
+		<link href="css/index.css" rel="stylesheet" type="text/css">
+	</head>
+	<body>
+		<script type="importmap">
+			{
+			  "imports": {
+				"three": "./js/three.module.js"
+			  }
+			}
+		  </script>
+		  <script src="js/tween.umd.js"></script>
+		<script type="module" src="js/index.js"></script>
+		<script async src="https://unpkg.com/es-module-shims@1.3.6/dist/es-module-shims.js"></script>
+		<button id="light">Turn off light</button>
+		<button id="start">Start</button>
+		<button id="grab">Selected: Off</button>
+		<form name="form" action="">
+			<fieldset>
+			<legend>Songs:</legend>
+			Upton funk <input type="radio" id="song1" name="song" value="1" checked/>
+			Starry night <input type="radio" id="song2" name="song" value="2"/>
+			Enola gay <input type="radio" name="song" value="3"/>
+			</fieldset>
+			</form>
+	</body>
+</html>
